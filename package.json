@@ -11,5 +11,8 @@
     "ecosystem:jquery"
   ],
   "author": "adarshanand",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": ">=3.3.1"
+  }
 }
