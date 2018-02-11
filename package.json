@@ -1,6 +1,6 @@
 {
   "name": "linkitadarsh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "using this plugin,you can make a text a link",
   "main": "linkit.js",
   "scripts": {
